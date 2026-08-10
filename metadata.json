@@ -1,0 +1,6 @@
+{
+  "name": "AODS.AI - Commercial Intelligence Infrastructure",
+  "description": "Enterprise intelligence platform that turns complex market data into prioritized commercial opportunities and decisive actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
